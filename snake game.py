@@ -15,7 +15,7 @@ width_of_screen = 900
 height_of_screen = 600
 
 gameWindow = pygame.display.set_mode((width_of_screen, height_of_screen))
-pygame.display.set_caption("snake game")
+pygame.display.set_caption("snake game by Eric")
 pygame.display.update()
 clock = pygame.time.Clock()
 font = pygame.font.SysFont(None, 55)
